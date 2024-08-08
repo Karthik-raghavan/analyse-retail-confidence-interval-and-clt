@@ -1,1 +1,5 @@
 /retail_env
+/data_ingestion/data.csv
+/data_ingestion/training_data.csv
+*.ipynb
+/.ipynb_checkpoints
